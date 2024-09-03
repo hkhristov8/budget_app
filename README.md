@@ -13,4 +13,4 @@ To get started with the Budget App, follow these steps:
 
 Clone the Repository
 
-git clone https://github.com/jbravoturtle/budget_app.git cd budget_app
+git clone https://github.com/hkhristov8/budget_app.git cd budget_app
